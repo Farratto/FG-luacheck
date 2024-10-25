@@ -391,6 +391,20 @@ jobs:
         path: .fg/extensions/BetterCombatEffectsGold
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
+    - name: Clone rhagelstrom/Pets
+      uses: actions/checkout@v4
+      with:
+        repository: rhagelstrom/FriendZone
+        path: .fg/extensions/Pets
+        fetch-depth: 0
+        token: ${{ secrets.ACTIONS }}
+    - name: Clone seanmccarty/RequestedRolls
+      uses: actions/checkout@v4
+      with:
+        repository: seanmccarty/RequestedRolls
+        path: .fg/extensions/RequestedRolls
+        fetch-depth: 0
+        token: ${{ secrets.ACTIONS }}
 
     # Processing
     - name: Generate new .luacheckrc
