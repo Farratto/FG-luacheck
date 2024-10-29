@@ -1,7 +1,7 @@
 name: Update .luacheckrc
 
 on:
-  synchronize: #push
+  merge: #push
     paths:
       - '.luacheckrc_header'
       - '.github/workflows/main.yml'
