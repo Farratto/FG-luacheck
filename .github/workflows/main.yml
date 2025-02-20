@@ -138,98 +138,98 @@ jobs:
         repository: FG-Unofficial-Developers-Guild/FG-ClockAdjuster
         path: .fg/extensions/FG-ClockAdjuster
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/BetterCombatEffects
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/BetterCombatEffects
         path: .fg/extensions/BetterCombatEffects
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone MeAndUnique/SizeMatters
       uses: actions/checkout@v4
       with:
         repository: MeAndUnique/SizeMatters
         path: .fg/extensions/SizeMatters
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone SirMotte/FGU-Theme-Hearth
       uses: actions/checkout@v4
       with:
         repository: SirMotte/FGU-Theme-Hearth
         path: .fg/extensions/FGU-Theme-Hearth
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/Turbo
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/Turbo
         path: .fg/extensions/Turbo
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/FranklyNot
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/FranklyNot
         path: .fg/extensions/FranklyNot
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/PowerUp
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/PowerUp
         path: .fg/extensions/PowerUp
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/Exhausted
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/Exhausted
         path: .fg/extensions/Exhausted
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/ChatAestheticsConfigurator
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/ChatAestheticsConfigurator
         path: .fg/extensions/ChatAestheticsConfigurator
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/ArcaneWard
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/ArcaneWard
         path: .fg/extensions/ArcaneWard
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/EffectiveInitiative
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/EffectiveInitiative
         path: .fg/extensions/EffectiveInitiative
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/HighVariance
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/HighVariance
         path: .fg/extensions/HighVariance
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/LifeLedger
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/LifeLedger
         path: .fg/extensions/LifeLedger
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/Pets
       uses: actions/checkout@v4
       with:
         repository: rhagelstrom/Pets
         path: .fg/extensions/Pets
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone rhagelstrom/BetterCombatEffectsGold
       uses: actions/checkout@v4
       with:
@@ -250,14 +250,14 @@ jobs:
         repository: farratto/JackOfAllThings
         path: .fg/extensions/JackOfAllThings
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone farratto/WinnowingPursuits
       uses: actions/checkout@v4
       with:
         repository: farratto/WinnowingPursuits
         path: .fg/extensions/WinnowingPursuits
         fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
+
     - name: Clone farratto/Blink
       uses: actions/checkout@v4
       with:
@@ -270,6 +270,13 @@ jobs:
       with:
         repository: Farratto/TemporalFixation
         path: .fg/extensions/TemporalFixation
+        fetch-depth: 0
+
+    - name: Clone Farratto/ZWhisperFGU
+      uses: actions/checkout@v4
+      with:
+        repository: Farratto/ZWhisperFGU
+        path: .fg/extensions/ZWhisperFGU
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
 
