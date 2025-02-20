@@ -90,46 +90,11 @@ jobs:
         token: ${{ secrets.ACTIONS }}
 
     # bmos extensions
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Encumbrance-Penalties
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Encumbrance-Penalties
-        path: .fg/extensions/FG-PFRPG-Encumbrance-Penalties
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Advanced-Crit-and-Fumble-Tables
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Advanced-Crit-and-Fumble-Tables
-        path: .fg/extensions/FG-PFRPG-Advanced-Crit-and-Fumble-Tables
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Advanced-Effects
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Advanced-Effects
-        path: .fg/extensions/FG-PFRPG-Advanced-Effects
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Drain-and-Permanent-Bonuses
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Drain-and-Permanent-Bonuses
-        path: .fg/extensions/FG-PFRPG-Drain-and-Permanent-Bonuses
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone FG-Unofficial-Developers-Guild/FG-FG-CoreRPG-Extraplanar-Containers
       uses: actions/checkout@v4
       with:
         repository: FG-Unofficial-Developers-Guild/FG-CoreRPG-Extraplanar-Containers
         path: .fg/extensions/FG-CoreRPG-Extraplanar-Containers
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-CoreRPG-Coins-Weight
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-CoreRPG-Coins-Weight
-        path: .fg/extensions/FG-CoreRPG-Coins-Weight
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
     - name: Clone FG-Unofficial-Developers-Guild/FG-Ammunition-Manager
@@ -139,95 +104,11 @@ jobs:
         path: .fg/extensions/FG-Ammunition-Manager
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Upgrade-NPC-Actions
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Upgrade-NPC-Actions
-        path: .fg/extensions/FG-PFRPG-Upgrade-NPC-Actions
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Spell-Formatting
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Spell-Formatting
-        path: .fg/extensions/FG-PFRPG-Spell-Formatting
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Spell-Failure
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Spell-Failure
-        path: .fg/extensions/FG-PFRPG-Spell-Failure
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Sanity-Tracker
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Sanity-Tracker
-        path: .fg/extensions/FG-PFRPG-Sanity-Tracker
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Malady-Tracker
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Malady-Tracker
-        path: .fg/extensions/FG-PFRPG-Malady-Tracker
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone FG-Unofficial-Developers-Guild/FG-HitMargins
       uses: actions/checkout@v4
       with:
         repository: FG-Unofficial-Developers-Guild/FG-HitMargins
         path: .fg/extensions/FG-HitMargins
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Live-Hitpoints
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Live-Hitpoints
-        path: .fg/extensions/FG-PFRPG-Live-Hitpoints
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Item-Durability
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Item-Durability
-        path: .fg/extensions/FG-PFRPG-Item-Durability
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Extra-Stat-to-Saves
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Extra-Stat-to-Saves
-        path: .fg/extensions/FG-PFRPG-Extra-Stat-to-Saves
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-ExtendedACBonusTypes
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-ExtendedACBonusTypes
-        path: .fg/extensions/FG-PFRPG-ExtendedACBonusTypes
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Enhanced-Items
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Enhanced-Items
-        path: .fg/extensions/FG-PFRPG-Enhanced-Items
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Customized-Item-Generator
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Customized-Item-Generator
-        path: .fg/extensions/FG-PFRPG-Customized-Item-Generator
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-PFRPG-Advanced-Item-Actions
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-PFRPG-Advanced-Item-Actions
-        path: .fg/extensions/FG-PFRPG-Advanced-Item-Actions
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
     - name: Clone FG-Unofficial-Developers-Guild/FG-CoreRPG-Party-Inventory-Weight
@@ -258,13 +139,6 @@ jobs:
         path: .fg/extensions/FG-Aura-Effect
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
-    - name: Clone FG-Unofficial-Developers-Guild/FG-4E-TEMPO-and-TEMPA
-      uses: actions/checkout@v4
-      with:
-        repository: FG-Unofficial-Developers-Guild/FG-4E-TEMPO-and-TEMPA
-        path: .fg/extensions/FG-4E-TEMPO-and-TEMPA
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone FG-Unofficial-Developers-Guild/FG-24-Hour-Clock
       uses: actions/checkout@v4
       with:
@@ -274,13 +148,6 @@ jobs:
         token: ${{ secrets.ACTIONS }}
 
     # Other dev's extensions
-    - name: Clone Kelrugem/Extended-automation-and-overlays
-      uses: actions/checkout@v4
-      with:
-        repository: Kelrugem/Extended-automation-and-overlays
-        path: .fg/extensions/Extended-automation-and-overlays
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone FG-Unofficial-Developers-Guild/FG-ClockAdjuster
       uses: actions/checkout@v4
       with:
@@ -302,13 +169,6 @@ jobs:
         path: .fg/extensions/SizeMatters
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
-    - name: Clone MeAndUnique/TemporalFixation
-      uses: actions/checkout@v4
-      with:
-        repository: MeAndUnique/TemporalFixation
-        path: .fg/extensions/TemporalFixation
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone SirMotte/FGU-Theme-Hearth
       uses: actions/checkout@v4
       with:
@@ -321,13 +181,6 @@ jobs:
       with:
         repository: rhagelstrom/Turbo
         path: .fg/extensions/Turbo
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
-    - name: Clone rhagelstrom/Contaminated
-      uses: actions/checkout@v4
-      with:
-        repository: rhagelstrom/Contaminated
-        path: .fg/extensions/Contaminated
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
     - name: Clone rhagelstrom/FranklyNot
@@ -379,13 +232,6 @@ jobs:
         path: .fg/extensions/HighVariance
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
-    - name: Clone rhagelstrom/Effective-NPC
-      uses: actions/checkout@v4
-      with:
-        repository: rhagelstrom/Effective-NPC
-        path: .fg/extensions/Effective-NPC
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone rhagelstrom/LifeLedger
       uses: actions/checkout@v4
       with:
@@ -433,6 +279,13 @@ jobs:
       with:
         repository: farratto/Blink
         path: .fg/extensions/Blink
+        fetch-depth: 0
+        token: ${{ secrets.ACTIONS }}
+    - name: Clone Farratto/TemporalFixation
+      uses: actions/checkout@v4
+      with:
+        repository: Farratto/TemporalFixation
+        path: .fg/extensions/TemporalFixation
         fetch-depth: 0
         token: ${{ secrets.ACTIONS }}
 
