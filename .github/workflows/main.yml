@@ -230,13 +230,6 @@ jobs:
         path: .fg/extensions/Pets
         fetch-depth: 0
 
-    - name: Clone rhagelstrom/BetterCombatEffectsGold
-      uses: actions/checkout@v4
-      with:
-        repository: rhagelstrom/BetterCombatEffectsGold
-        path: .fg/extensions/BetterCombatEffectsGold
-        fetch-depth: 0
-        token: ${{ secrets.ACTIONS }}
     - name: Clone farratto/WalkThisWay
       uses: actions/checkout@v4
       with:
