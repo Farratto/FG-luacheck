@@ -221,6 +221,7 @@ stds.fg = {
         removeKeyedEventHandler = {read_only = true},
         getDicePacks = {read_only = true},
         getDicePackInfo = {read_only = true},
+		getVersion = {read_only = true},
       },
     },
     Module = {
@@ -281,6 +282,7 @@ stds.fg = {
         onWheel = {read_only = false},
         addEventHandler = {read_only = false},
         removeEventHandler = {read_only = false},
+		addToken = {read_only = false},
       },
     },
     User = {
@@ -319,6 +321,7 @@ stds.fg = {
         setPortrait = {read_only = true},
         addEventHandler = {read_only = true},
         removeEventHandler = {read_only = true},
+		isHost = {read_only = true},
       },
     },
     Utility = {
@@ -339,6 +342,8 @@ stds.fg = {
     header = {other_fields = true},
     super = {other_fields = true},
     self = {other_fields = true},
+	content = {other_fields = true},
+	actions = {other_fields = true},
   },
 }
 
@@ -349,5 +354,6 @@ stds.fgfunctions = {
   globals = {
     "onInit",
     "onClose",
+    "onTabletopInit",
   }
 }
