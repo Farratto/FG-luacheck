@@ -283,6 +283,13 @@ jobs:
         repository: Farratto/InitiativeNanny
         path: .fg/extensions/InitiativeNanny
         fetch-depth: 0
+    - name: Clone Farratto/StepCounter
+      uses: actions/checkout@v4
+      with:
+        repository: Farratto/StepCounter
+        path: .fg/extensions/StepCounter
+        fetch-depth: 0
+        token: ${{ secrets.ACTIONS }}
 
     # Processing
     - name: Generate new .luacheckrc
