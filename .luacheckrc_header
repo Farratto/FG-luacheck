@@ -76,7 +76,7 @@ stds.fg = {
         getRulesetVersion = {read_only = true},
         getText = {read_only = true},
         getType = {read_only = true},
-        getValue = {read_only = true},
+        getValue = {read_only = false},
         getVersion = {read_only = true},
         import = {read_only = true},
         isEmpty = {read_only = true},
