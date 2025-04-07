@@ -296,6 +296,12 @@ jobs:
         repository: Farratto/OpticalReferendum
         path: .fg/extensions/OpticalReferendum
         fetch-depth: 0
+    - name: Clone Farratto/corerpg-combat-highlighter
+      uses: actions/checkout@v4
+      with:
+        repository: Farratto/corerpg-combat-highlighter
+        path: .fg/extensions/corerpg-combat-highlighter
+        fetch-depth: 0
 
     # Processing
     - name: Generate new .luacheckrc
