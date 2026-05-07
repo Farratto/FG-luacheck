@@ -27,11 +27,11 @@ jobs:
     - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       with:
         fetch-depth: 5
-        token: ${{ secrets.BMOS_SYNC_TOKEN }}
+        token: ${{ secrets.ACTIONS }}
   
     - name: Sync Rulesets
       env:
-        GH_TOKEN: ${{ secrets.BMOS_SYNC_TOKEN }}
+        GH_TOKEN: ${{ secrets.ACTIONS }}
       run: |
         RULESETS=(
           "FG-Unofficial-Developers-Guild/CoreRPG|CoreRPG"
@@ -52,18 +52,17 @@ jobs:
         wait
 
     - env:
-        GH_TOKEN: ${{ secrets.BMOS_SYNC_TOKEN }}
+        GH_TOKEN: ${{ secrets.ACTIONS }}
       run: |
         # Add external repos
         EXT_LIST=(
           "Kelrugem/Extended-automation-and-overlays"
           "rhagelstrom/BetterCombatEffects"
+          "rhagelstrom/BetterCombatEffectsGold"
           "MeAndUnique/SizeMatters"
           "MeAndUnique/TemporalFixation"
           "SirMotte/FGU-Theme-Hearth"
-          "rhagelstrom/Turbo"
           "rhagelstrom/Contaminated"
-          "rhagelstrom/FranklyNot"
           "rhagelstrom/PowerUp"
           "rhagelstrom/Exhausted"
           "rhagelstrom/ChatAestheticsConfigurator"
@@ -73,6 +72,17 @@ jobs:
           "rhagelstrom/Effective-NPC"
           "rhagelstrom/LifeLedger"
           "rhagelstrom/Pets"
+          "rhagelstrom/AdvancedEffects"
+          "Farratto/GoBigOrGoGnome"
+          "Farratto/WalkThisWay"
+          "Farratto/JackOfAllThings"
+          "Farratto/WinnowingPursuits"
+          "Farratto/ZWhisperFGU"
+          "Farratto/InitiativeNanny"
+          "Farratto/OpticalReferendum"
+          "Farratto/corerpg-combat-highlighter"
+          "Farratto/StepCounter"
+          "Farratto/Blink"
         )
 
         # Add Guild repos starting with `FG-`, excluding archived ones
@@ -110,7 +120,7 @@ jobs:
 
     - uses: peter-evans/create-pull-request@c0f553fe549906ede9cf27b5156039d195d2ece0
       with:
-        token: ${{ secrets.BMOS_SYNC_TOKEN }}
+        token: ${{ secrets.ACTIONS }}
         branch: update-luacheckrc
         title: Update .luacheckrc
         commit-message: "The latest .luacheckrc config built from targeted repos."
