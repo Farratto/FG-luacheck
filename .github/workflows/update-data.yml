@@ -108,10 +108,7 @@ jobs:
       with:
         std: '+dnd2e+dnd35e+dnd4e+dnd5e+pfrpg+pfrpg2+sfrpg'
 
-    - uses: peter-evans/create-pull-request@c0f553fe549906ede9cf27b5156039d195d2ece0
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
       with:
-        token: ${{ secrets.BMOS_SYNC_TOKEN }}
-        branch: update-luacheckrc
-        title: Update .luacheckrc
-        commit-message: "The latest .luacheckrc config built from targeted repos."
-        delete-branch: true
+        commit_message: Update .luacheckrc
