@@ -58,14 +58,10 @@ jobs:
         EXT_LIST=(
           "Kelrugem/Extended-automation-and-overlays"
           "rhagelstrom/BetterCombatEffects"
-          "MeAndUnique/SizeMatters"
-          "MeAndUnique/TemporalFixation"
           "SirMotte/FGU-Theme-Hearth"
           "rhagelstrom/Turbo"
           "rhagelstrom/Contaminated"
-          "rhagelstrom/FranklyNot"
           "rhagelstrom/PowerUp"
-          "rhagelstrom/Exhausted"
           "rhagelstrom/ChatAestheticsConfigurator"
           "rhagelstrom/ArcaneWard"
           "rhagelstrom/EffectiveInitiative"
@@ -73,6 +69,15 @@ jobs:
           "rhagelstrom/Effective-NPC"
           "rhagelstrom/LifeLedger"
           "rhagelstrom/Pets"
+          "Farratto/GoBigOrGoGnome"
+          "Farratto/WalkThisWay"
+          "Farratto/JackOfAllThings"
+          "Farratto/WinnowingPursuits"
+          "Farratto/ZWhisperFGU"
+          "Farratto/OpticalReferendum"
+          "Farratto/corerpg-combat-highlighter"
+          "Farratto/StepCounter"
+          "Farratto/Blink"
         )
 
         # Add Guild repos starting with `FG-`, excluding archived ones
