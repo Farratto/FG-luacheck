@@ -34189,198 +34189,6 @@ stds.clockadjusterpr6i6e6stbmospokeycameanduniquecorunkailandjustinfreitas = {
 		contentframe = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasIcon = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setIcon = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		currentday = {
@@ -38526,198 +38334,6 @@ stds.clockadjusterpr6i6e6stbmospokeycameanduniquecorunkailandjustinfreitas = {
 		header = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInstanceCreated = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		hour = {
@@ -40296,10 +39912,6 @@ stds.clockadjusterpr6i6e6stbmospokeycameanduniquecorunkailandjustinfreitas = {
 		name = {
 			read_only = false,
 			fields = {
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		normaltravel = {
@@ -48750,19 +48362,11 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
-				nEffects = {
-					read_only = false,
-					other_fields = false,
-				},
 				onHealRoll = {
 					read_only = false,
 					other_fields = false,
 				},
 				performRoll = {
-					read_only = false,
-					other_fields = false,
-				},
-				tBonusData = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -48812,6 +48416,22 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				applyDamageAdjustPrep = {
+					read_only = false,
+					other_fields = false,
+				},
+				applyDamageAdjustPrepBuildFilters = {
+					read_only = false,
+					other_fields = false,
+				},
+				applyDamageAdjustPrepFortification = {
+					read_only = false,
+					other_fields = false,
+				},
+				applyDamageAdjustPrepGetEffects = {
+					read_only = false,
+					other_fields = false,
+				},
+				applyDamageAdjustPrepIncorporeal = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -48968,10 +48588,6 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				applyGetEffects = {
-					read_only = false,
-					other_fields = false,
-				},
-				applyGetEffectsAdjust = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -49152,6 +48768,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				applyOngoingDamage = {
+					read_only = false,
+					other_fields = false,
+				},
 				decodeLabelText = {
 					read_only = false,
 					other_fields = false,
@@ -49172,6 +48792,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				handleSaveDamage = {
+					read_only = false,
+					other_fields = false,
+				},
 				handleSaveFail = {
 					read_only = false,
 					other_fields = false,
@@ -49185,6 +48809,51 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSaveDamage = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		ActionsChoiceManager = {
+			read_only = false,
+			fields = {
+				deletePowerChoiceSelections = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerActionChoiceSelections = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerActionChoices = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerChoiceSelections = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerChoiceSelectionsDisplayList = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerChoices = {
+					read_only = false,
+					other_fields = false,
+				},
+				performActionChoicesSubstitution = {
+					read_only = false,
+					other_fields = false,
+				},
+				performStringChoicesSubstitution = {
+					read_only = false,
+					other_fields = false,
+				},
+				setPowerChoiceSelections = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -49411,6 +49080,103 @@ stds.corerpg = {
 				},
 			},
 		},
+		ActionsPerformManager = {
+			read_only = false,
+			fields = {
+				OOB_MSGTYPE_ACTION_ROLL_COMPLETE = {
+					read_only = false,
+					other_fields = false,
+				},
+				OOB_MSGTYPE_ACTION_SET_RESULT_STATE = {
+					read_only = false,
+					other_fields = false,
+				},
+				checkActionComplete = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearActorActionQueues = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearAllActionQueues = {
+					read_only = false,
+					other_fields = false,
+				},
+				dequeueActorActionQueueData = {
+					read_only = false,
+					other_fields = false,
+				},
+				enqueueActorActionQueueData = {
+					read_only = false,
+					other_fields = false,
+				},
+				finalizeQueueAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionQueueEntryTargetingGroups = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionResultStateByIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getNextActionTargets = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleActionResultState = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleActionRollCompleted = {
+					read_only = false,
+					other_fields = false,
+				},
+				notifyActionResultState = {
+					read_only = false,
+					other_fields = false,
+				},
+				notifyActionRollCompleted = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				peekActorActionQueueData = {
+					read_only = false,
+					other_fields = false,
+				},
+				performActionQueue = {
+					read_only = false,
+					other_fields = false,
+				},
+				performActionQueueEntry = {
+					read_only = false,
+					other_fields = false,
+				},
+				performNextQueueAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				prepareForNextAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				setActionResultState = {
+					read_only = false,
+					other_fields = false,
+				},
+				setActionResultStateInternal = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		ActorCommonManager = {
 			read_only = false,
 			fields = {
@@ -49451,14 +49217,6 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				getCreatureOrigins = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCreatureSizeDnD3 = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCreatureSizeDnD5 = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -49615,14 +49373,6 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				isCreatureSizeDnD = {
-					read_only = false,
-					other_fields = false,
-				},
-				isCreatureSizeDnD3 = {
-					read_only = false,
-					other_fields = false,
-				},
-				isCreatureSizeDnD5 = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -50083,6 +49833,10 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				isFaction = {
+					read_only = false,
+					other_fields = false,
+				},
+				isInRange = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -53503,6 +53257,22 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				evalDieAverage = {
+					read_only = false,
+					other_fields = false,
+				},
+				evalDieMax = {
+					read_only = false,
+					other_fields = false,
+				},
+				evalDieMin = {
+					read_only = false,
+					other_fields = false,
+				},
+				evalDieRandom = {
+					read_only = false,
+					other_fields = false,
+				},
 				getCustomDieManualHandler = {
 					read_only = false,
 					other_fields = false,
@@ -54485,6 +54255,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				getEffectStringConditions = {
+					read_only = false,
+					other_fields = false,
+				},
 				getEffectTargets = {
 					read_only = false,
 					other_fields = false,
@@ -54502,6 +54276,10 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				getEffectsString = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectsStringConditions = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -54666,6 +54444,22 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				onEffectDisplayFilterDefault = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEffectEval = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEffectEvalMath = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEffectEvalTagBonusCombine = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEffectEvalVariables = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -55195,6 +54989,26 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				onRangeCheckConditionMatch = {
+					read_only = false,
+					other_fields = false,
+				},
+				onRangeCheckFactionMatch = {
+					read_only = false,
+					other_fields = false,
+				},
+				onRangeCheckNameMatch = {
+					read_only = false,
+					other_fields = false,
+				},
+				onRangeCheckTargetMatch = {
+					read_only = false,
+					other_fields = false,
+				},
+				onRangeCheckTypeMatch = {
+					read_only = false,
+					other_fields = false,
+				},
 				onStatusCheck = {
 					read_only = false,
 					other_fields = false,
@@ -55321,10 +55135,6 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				onEffectAddSetupSource = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEffectAddSetupTags = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -55574,6 +55384,10 @@ stds.corerpg = {
 		GameManager = {
 			read_only = false,
 			fields = {
+				addAction = {
+					read_only = false,
+					other_fields = false,
+				},
 				addEventFunction = {
 					read_only = false,
 					other_fields = false,
@@ -55595,6 +55409,10 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				callMultiKeyFunctionPreLayered = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionProperty = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -55626,11 +55444,19 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				isAction = {
+					read_only = false,
+					other_fields = false,
+				},
 				isOption = {
 					read_only = false,
 					other_fields = false,
 				},
 				removeEventFunction = {
+					read_only = false,
+					other_fields = false,
+				},
+				setActionProperty = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -55694,10 +55520,6 @@ stds.corerpg = {
 				requestCharSelectDetailClient = {
 					read_only = false,
 					other_fields = false,
-				},
-				targetactions = {
-					read_only = false,
-					other_fields = true,
 				},
 			},
 		},
@@ -56314,6 +56136,23 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				unregisterImportMode = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		InputManager = {
+			read_only = false,
+			fields = {
+				isAltPressed = {
+					read_only = false,
+					other_fields = false,
+				},
+				isAltPressedRaw = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -59106,7 +58945,15 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				getActionTypes = {
+					read_only = false,
+					other_fields = false,
+				},
 				getSortedActionTypes = {
+					read_only = false,
+					other_fields = false,
+				},
+				isActionType = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -59140,6 +58987,10 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				getPowerActionsPath = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerActor = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -61625,6 +61476,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				convertNumberToOrdinal = {
+					read_only = false,
+					other_fields = false,
+				},
 				convertPointToString = {
 					read_only = false,
 					other_fields = false,
@@ -63296,6 +63151,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				convertLightingDefaults8 = {
+					read_only = false,
+					other_fields = false,
+				},
 				convertNotes2 = {
 					read_only = false,
 					other_fields = false,
@@ -63390,10 +63249,6 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
-				addEffectLights = {
-					read_only = false,
-					other_fields = false,
-				},
 				addLightDefault = {
 					read_only = false,
 					other_fields = false,
@@ -63403,18 +63258,6 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				addLightPreset = {
-					read_only = false,
-					other_fields = false,
-				},
-				addTokenLightHelper = {
-					read_only = false,
-					other_fields = false,
-				},
-				addTokenLightHelper2 = {
-					read_only = false,
-					other_fields = false,
-				},
-				addTokenVisions = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -63442,6 +63285,26 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				findLightPresetByTag = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectLightData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectPresetLightData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getLightDefault = {
+					read_only = false,
+					other_fields = false,
+				},
+				getLightDefaults = {
+					read_only = false,
+					other_fields = false,
+				},
 				getLightPresetEffects = {
 					read_only = false,
 					other_fields = false,
@@ -63450,15 +63313,27 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				getTokenVisionEffectData = {
+					read_only = false,
+					other_fields = false,
+				},
 				getTokenVisionInfo = {
 					read_only = false,
 					other_fields = false,
 				},
-				getVisionFields = {
+				getTokenVisionPrevData = {
 					read_only = false,
 					other_fields = false,
 				},
-				onClose = {
+				getTokenVisionSensesData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getVisionDataFromString = {
+					read_only = false,
+					other_fields = false,
+				},
+				getVisionFields = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -63470,31 +63345,11 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				populateLightPreset = {
+					read_only = false,
+					other_fields = false,
+				},
 				populateLightPresets = {
-					read_only = false,
-					other_fields = false,
-				},
-				processEffectVisions = {
-					read_only = false,
-					other_fields = false,
-				},
-				processSenseVisions = {
-					read_only = false,
-					other_fields = false,
-				},
-				processTokenVisionHelper = {
-					read_only = false,
-					other_fields = false,
-				},
-				processTokenVisionHelper2 = {
-					read_only = false,
-					other_fields = false,
-				},
-				removeCurrentLights = {
-					read_only = false,
-					other_fields = false,
-				},
-				removeCurrentVisions = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -63503,6 +63358,14 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				removeVisionType = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveTokenLighting = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveTokenVision = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -66735,1281 +66598,21 @@ stds.corerpg = {
 		animspeed = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		animspeed_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		animtype = {
 			read_only = false,
 			fields = {
-				addItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				addItemData = {
-					read_only = false,
-					other_fields = false,
-				},
-				addItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				clear = {
-					read_only = false,
-					other_fields = false,
-				},
-				clearItemsData = {
-					read_only = false,
-					other_fields = false,
-				},
-				cycleLabel = {
-					read_only = false,
-					other_fields = false,
-				},
-				cycleValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDefaultIndex = {
-					read_only = false,
-					other_fields = false,
-				},
-				getIndex = {
-					read_only = false,
-					other_fields = false,
-				},
-				getItemDataByValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getItemsData = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMetadata = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getOptionData = {
-					read_only = false,
-					other_fields = false,
-				},
-				getOptionItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSourcePath = {
-					read_only = false,
-					other_fields = false,
-				},
-				getStringValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValueCount = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValues = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValuesData = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasIcon = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasValues = {
-					read_only = false,
-					other_fields = false,
-				},
-				initialize = {
-					read_only = false,
-					other_fields = false,
-				},
-				initialize2 = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				loadSourceData = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onSourceUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				performDefaultIndexInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				performDisplayParamInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				performOptionDataInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				performSourceCleanup = {
-					read_only = false,
-					other_fields = false,
-				},
-				performSourceInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				performUICleanup = {
-					read_only = false,
-					other_fields = false,
-				},
-				performUIInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				refreshDisplay = {
-					read_only = false,
-					other_fields = false,
-				},
-				refreshSourceData = {
-					read_only = false,
-					other_fields = false,
-				},
-				refreshSourceDisplay = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				removeItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				removeItemData = {
-					read_only = false,
-					other_fields = false,
-				},
-				replaceItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				resolveOptionItemData = {
-					read_only = false,
-					other_fields = false,
-				},
-				saveSourceData = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDefaultIndex = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDisplayColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDisplayFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setIcon = {
-					read_only = false,
-					other_fields = false,
-				},
-				setIndex = {
-					read_only = false,
-					other_fields = false,
-				},
-				setItemData = {
-					read_only = false,
-					other_fields = false,
-				},
-				setItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMetadata = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSourceField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSourcePath = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStringValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				updateDisplay = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		animtype_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		anyruleset = {
@@ -72590,563 +71193,11 @@ stds.corerpg = {
 		bright = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		bright_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		button = {
@@ -101165,298 +99216,6 @@ stds.corerpg = {
 		color_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		color_swatch = {
@@ -109456,1125 +107215,21 @@ stds.corerpg = {
 		dim = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		dim_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		dimfalloff = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		dimfalloff_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		disabled = {
@@ -111488,563 +108143,11 @@ stds.corerpg = {
 		duration = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		duration_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		effect_preset_item = {
@@ -115763,563 +111866,11 @@ stds.corerpg = {
 		falloff = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		falloff_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		file = {
@@ -117297,6 +112848,16 @@ stds.corerpg = {
 			},
 		},
 		formation = {
+			read_only = false,
+			fields = {
+			},
+		},
+		fov = {
+			read_only = false,
+			fields = {
+			},
+		},
+		fov_label = {
 			read_only = false,
 			fields = {
 			},
@@ -119355,298 +114916,6 @@ stds.corerpg = {
 		header = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		header_asset = {
@@ -151540,7 +146809,7 @@ stds.corerpg = {
 		power_action_mini = {
 			read_only = false,
 			fields = {
-				getActionData = {
+				getActionOptions = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -151593,6 +146862,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				registerMenu = {
+					read_only = false,
+					other_fields = false,
+				},
 				setFilter = {
 					read_only = false,
 					other_fields = false,
@@ -151635,6 +146908,10 @@ stds.corerpg = {
 					other_fields = false,
 				},
 				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenu = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -167638,307 +162915,11 @@ stds.corerpg = {
 		tag = {
 			read_only = false,
 			fields = {
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		tag_label = {
 			read_only = false,
 			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
 			},
 		},
 		target_summary = {
@@ -184645,10 +179626,6 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
-				setupEffectVariables = {
-					read_only = false,
-					other_fields = false,
-				},
 				setupFunctionOverrides = {
 					read_only = false,
 					other_fields = false,
@@ -184741,10 +179718,6 @@ stds.dnd2e = {
 				requestCharSelectDetailClient = {
 					read_only = false,
 					other_fields = false,
-				},
-				targetactions = {
-					read_only = false,
-					other_fields = true,
 				},
 			},
 		},
@@ -187791,15 +182764,19 @@ stds.dnd2e = {
 		PowerManager = {
 			read_only = false,
 			fields = {
+				DIVINE_SPELL_LEVELS = {
+					read_only = false,
+					other_fields = false,
+				},
 				SPELL_LEVELS = {
 					read_only = false,
 					other_fields = false,
 				},
-				aPowerGroup = {
+				addPower = {
 					read_only = false,
 					other_fields = false,
 				},
-				addPower = {
+				addReferencePower = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187811,7 +182788,27 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				canPickArcaneSpells = {
+					read_only = false,
+					other_fields = false,
+				},
+				canPickSpellsAtLevel = {
+					read_only = false,
+					other_fields = false,
+				},
 				castMemorizedSpell = {
+					read_only = false,
+					other_fields = false,
+				},
+				convertReferenceToLocal = {
+					read_only = false,
+					other_fields = false,
+				},
+				ensureDefaultCastAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				ensureMemorizationGroup = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187819,7 +182816,27 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				findExistingPowerForSource = {
+					read_only = false,
+					other_fields = false,
+				},
+				getArcaneSlotsMax = {
+					read_only = false,
+					other_fields = false,
+				},
+				getArcaneSlotsUsed = {
+					read_only = false,
+					other_fields = false,
+				},
 				getCasterLevelByType = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDivineSlotsMax = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDivineSlotsUsed = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187832,6 +182849,10 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				getLevelBasedDurationValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPickableSpellTypes = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187851,11 +182872,27 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getPowerDataNode = {
+					read_only = false,
+					other_fields = false,
+				},
 				getPowerGroupRecord = {
 					read_only = false,
 					other_fields = false,
 				},
 				getPowerHealActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getReferenceSource = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpellSlotClass = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpellsForLevel = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187883,7 +182920,35 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				isReferencePower = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReferenceUnavailable = {
+					read_only = false,
+					other_fields = false,
+				},
+				memorizeFromSource = {
+					read_only = false,
+					other_fields = false,
+				},
 				memorizeSpell = {
+					read_only = false,
+					other_fields = false,
+				},
+				messageReferenceUnavailable = {
+					read_only = false,
+					other_fields = false,
+				},
+				onActorSlotsMaxChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTabletopInit = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187892,6 +182957,14 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				performPowerAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshReferenceCache = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeForgottenReference = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -187929,6 +183002,14 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				getActionTooltip = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionWindowData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getContextPowerNode = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -191810,6 +186891,10 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getPowerEntryNode = {
+					read_only = false,
+					other_fields = false,
+				},
 				getScrollState = {
 					read_only = false,
 					other_fields = false,
@@ -192083,6 +187168,10 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				sortByOrders = {
+					read_only = false,
+					other_fields = false,
+				},
+				watchSource = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -193344,6 +188433,203 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		actionsmini_ref = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -233762,6 +229048,298 @@ stds.dnd2e = {
 		count = {
 			read_only = false,
 			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
 			},
 		},
 		counter = {
@@ -233876,6 +229454,10 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onCounterUse = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -266346,6 +261928,2495 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		filter_name = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				selectAll = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		filter_school = {
+			read_only = false,
+			fields = {
+				activate = {
+					read_only = false,
+					other_fields = false,
+				},
+				add = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				clear = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				createListControls = {
+					read_only = false,
+					other_fields = false,
+				},
+				cycleValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemDataByValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectedValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				getStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValueCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValuesData = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				hideList = {
+					read_only = false,
+					other_fields = false,
+				},
+				isComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				loadSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClear = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLayoutSizeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionClicked = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionDelete = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSelect = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSourceUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDefaultIndexInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDisplayParamInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOptionDataInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOverridesInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceCleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUICleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUIInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshButtonDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDataDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshListDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSelectionDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				remove = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				replace = {
+					read_only = false,
+					other_fields = false,
+				},
+				replaceItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveOptionItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				saveSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnlyOverride = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourceField = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				showList = {
+					read_only = false,
+					other_fields = false,
+				},
+				toggle = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateVisibility = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		filter_source = {
+			read_only = false,
+			fields = {
+				activate = {
+					read_only = false,
+					other_fields = false,
+				},
+				add = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				clear = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				createListControls = {
+					read_only = false,
+					other_fields = false,
+				},
+				cycleValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemDataByValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectedValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				getStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValueCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValuesData = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				hideList = {
+					read_only = false,
+					other_fields = false,
+				},
+				isComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				loadSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClear = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLayoutSizeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionClicked = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionDelete = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSelect = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSourceUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDefaultIndexInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDisplayParamInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOptionDataInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOverridesInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceCleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUICleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUIInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshButtonDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDataDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshListDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSelectionDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				remove = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				replace = {
+					read_only = false,
+					other_fields = false,
+				},
+				replaceItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveOptionItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				saveSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnlyOverride = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourceField = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				showList = {
+					read_only = false,
+					other_fields = false,
+				},
+				toggle = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateVisibility = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		filter_sphere = {
+			read_only = false,
+			fields = {
+				activate = {
+					read_only = false,
+					other_fields = false,
+				},
+				add = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				clear = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				createListControls = {
+					read_only = false,
+					other_fields = false,
+				},
+				cycleValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemDataByValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectedValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				getStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValueCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValuesData = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				hideList = {
+					read_only = false,
+					other_fields = false,
+				},
+				isComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				loadSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClear = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLayoutSizeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionClicked = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionDelete = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSelect = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSourceUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDefaultIndexInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDisplayParamInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOptionDataInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOverridesInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceCleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUICleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUIInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshButtonDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDataDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshListDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSelectionDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				remove = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				replace = {
+					read_only = false,
+					other_fields = false,
+				},
+				replaceItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveOptionItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				saveSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnlyOverride = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourceField = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				showList = {
+					read_only = false,
+					other_fields = false,
+				},
+				toggle = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateVisibility = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		filter_type = {
+			read_only = false,
+			fields = {
+				activate = {
+					read_only = false,
+					other_fields = false,
+				},
+				add = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				clear = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				createListControls = {
+					read_only = false,
+					other_fields = false,
+				},
+				cycleValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemDataByValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectedValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				getStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValueCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValuesData = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				hideList = {
+					read_only = false,
+					other_fields = false,
+				},
+				isComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				loadSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClear = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLayoutSizeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionClicked = {
+					read_only = false,
+					other_fields = false,
+				},
+				onOptionDelete = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSelect = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSourceUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDefaultIndexInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDisplayParamInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOptionDataInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOverridesInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceCleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUICleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUIInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshButtonDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDataDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshListDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSelectionDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				remove = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				replace = {
+					read_only = false,
+					other_fields = false,
+				},
+				replaceItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveOptionItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				saveSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setButtonControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setComboBoxVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListControlActive = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setListVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnlyOverride = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollbarControl = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourceField = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				showList = {
+					read_only = false,
+					other_fields = false,
+				},
+				toggle = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateVisibility = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -353612,6 +351683,40 @@ stds.dnd2e = {
 				},
 			},
 		},
+		power_action_mini = {
+			read_only = false,
+			fields = {
+				getActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionOptions = {
+					read_only = false,
+					other_fields = false,
+				},
+				performAction = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_action_ref = {
+			read_only = false,
+			fields = {
+				onDataChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		power_group_header = {
 			read_only = false,
 			fields = {
@@ -353643,6 +351748,10 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				openPicker = {
+					read_only = false,
+					other_fields = false,
+				},
 				setFilter = {
 					read_only = false,
 					other_fields = false,
@@ -353652,6 +351761,10 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				setNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				updatePrayButton = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -353751,6 +351864,10 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getActionWindows = {
+					read_only = false,
+					other_fields = false,
+				},
 				getDescription = {
 					read_only = false,
 					other_fields = false,
@@ -353783,6 +351900,22 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onReferenceChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshActionWindows = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenu = {
+					read_only = false,
+					other_fields = false,
+				},
+				setActionsMiniVisible = {
+					read_only = false,
+					other_fields = false,
+				},
 				setFilter = {
 					read_only = false,
 					other_fields = false,
@@ -353800,6 +351933,14 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				updateItemSync = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateReferenceDisplay = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -353832,6 +351973,10 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getActionWindows = {
+					read_only = false,
+					other_fields = false,
+				},
 				getDescription = {
 					read_only = false,
 					other_fields = false,
@@ -353864,6 +352009,22 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onReferenceChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshActionWindows = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenu = {
+					read_only = false,
+					other_fields = false,
+				},
+				setActionsMiniVisible = {
+					read_only = false,
+					other_fields = false,
+				},
 				setFilter = {
 					read_only = false,
 					other_fields = false,
@@ -353881,6 +352042,14 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				updateItemSync = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateReferenceDisplay = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -353961,6 +352130,10 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onSlotsMaxChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 				onSortCompare = {
 					read_only = false,
 					other_fields = false,
@@ -354010,7 +352183,7 @@ stds.dnd2e = {
 		power_slots_cast = {
 			read_only = false,
 			fields = {
-				getOrdinalLabel = {
+				getActiveLevels = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -354048,6 +352221,92 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				onModeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_spell_picker = {
+			read_only = false,
+			fields = {
+				isSpellShown = {
+					read_only = false,
+					other_fields = false,
+				},
+				memorize = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFilterChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSourceFilterChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				refresh = {
+					read_only = false,
+					other_fields = false,
+				},
+				setPicker = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateFilterOptions = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateSchoolSphereOptions = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_spell_picker_item = {
+			read_only = false,
+			fields = {
+				getSchools = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSource = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpellClass = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpellNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpheres = {
+					read_only = false,
+					other_fields = false,
+				},
+				memorize = {
+					read_only = false,
+					other_fields = false,
+				},
+				openSpell = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSpell = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -355801,6 +354060,235 @@ stds.dnd2e = {
 			},
 		},
 		powers_scan = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		pray = {
 			read_only = false,
 			fields = {
 				bringToFront = {
@@ -366488,6 +364976,203 @@ stds.dnd2e = {
 				},
 			},
 		},
+		refactions = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		reference_background = {
 			read_only = false,
 			fields = {
@@ -366970,6 +365655,303 @@ stds.dnd2e = {
 					other_fields = false,
 				},
 				windowParent = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		refunavailable = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -378853,6 +377835,303 @@ stds.dnd2e = {
 				},
 			},
 		},
+		slots = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		slotstitle = {
 			read_only = false,
 			fields = {
@@ -379161,15 +378440,171 @@ stds.dnd2e = {
 		source = {
 			read_only = false,
 			fields = {
-				getDatabaseNode = {
+				bringToFront = {
 					read_only = false,
 					other_fields = false,
 				},
-				getLockMode = {
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
 					read_only = false,
 					other_fields = false,
 				},
 				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -379181,11 +378616,119 @@ stds.dnd2e = {
 					read_only = false,
 					other_fields = false,
 				},
-				setLockMode = {
+				onWheel = {
 					read_only = false,
 					other_fields = false,
 				},
-				update = {
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -422799,6 +422342,51 @@ stds.dnd35e = {
 				},
 			},
 		},
+		ActionCast = {
+			read_only = false,
+			fields = {
+				getRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellFailure = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellFailureComponents = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellFailureConditions = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellFailureSomatic = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellFailureVerbal = {
+					read_only = false,
+					other_fields = false,
+				},
+				onCast = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSpellFailure = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSpellFailureRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		ActionDamage = {
 			read_only = false,
 			fields = {
@@ -422834,10 +422422,6 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				nDice = {
-					read_only = false,
-					other_fields = false,
-				},
 				onInit = {
 					read_only = false,
 					other_fields = false,
@@ -422863,7 +422447,19 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
+				applyAbilityEffectsToRollMod = {
+					read_only = false,
+					other_fields = false,
+				},
+				applyEffectsToRollMod = {
+					read_only = false,
+					other_fields = false,
+				},
 				applyHRFFOption = {
+					read_only = false,
+					other_fields = false,
+				},
+				applyStandardEffectsToRollMod = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -422896,6 +422492,10 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				performRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveRollAbility = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -422957,10 +422557,6 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				bUntrained = {
-					read_only = false,
-					other_fields = false,
-				},
 				getRoll = {
 					read_only = false,
 					other_fields = false,
@@ -422994,19 +422590,7 @@ stds.dnd35e = {
 		ActionSpell = {
 			read_only = false,
 			fields = {
-				OOB_MSGTYPE_APPLYSAVEVS = {
-					read_only = false,
-					other_fields = false,
-				},
-				bEffects = {
-					read_only = false,
-					other_fields = false,
-				},
 				getCLCRoll = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSaveVsRoll = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423014,43 +422598,11 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				handleApplySave = {
-					read_only = false,
-					other_fields = false,
-				},
-				handleSpellFailure = {
-					read_only = false,
-					other_fields = false,
-				},
-				handleSpellFailureComponents = {
-					read_only = false,
-					other_fields = false,
-				},
-				handleSpellFailureConditions = {
-					read_only = false,
-					other_fields = false,
-				},
-				handleSpellFailureSomatic = {
-					read_only = false,
-					other_fields = false,
-				},
-				handleSpellFailureVerbal = {
-					read_only = false,
-					other_fields = false,
-				},
 				modCLC = {
 					read_only = false,
 					other_fields = false,
 				},
-				modCastSave = {
-					read_only = false,
-					other_fields = false,
-				},
 				modConcentration = {
-					read_only = false,
-					other_fields = false,
-				},
-				notifyApplySave = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423062,7 +422614,36 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				onCastSave = {
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		ActionSpellSave = {
+			read_only = false,
+			fields = {
+				OOB_MSGTYPE_APPLYSAVEVS = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSaveVsRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleApplySaveVs = {
+					read_only = false,
+					other_fields = false,
+				},
+				modSaveVs = {
+					read_only = false,
+					other_fields = false,
+				},
+				notifyApplySaveVs = {
+					read_only = false,
+					other_fields = false,
+				},
+				onCastSaveVs = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423070,23 +422651,11 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				onSpellCast = {
-					read_only = false,
-					other_fields = false,
-				},
-				onSpellFailure = {
-					read_only = false,
-					other_fields = false,
-				},
-				onSpellSave = {
+				onSpellSaveVs = {
 					read_only = false,
 					other_fields = false,
 				},
 				performSaveVsRoll = {
-					read_only = false,
-					other_fields = false,
-				},
-				performSpellFailureRoll = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423124,6 +422693,10 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				getEffectSpellDC = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectSpellLevel = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423200,14 +422773,6 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				hasTrait = {
-					read_only = false,
-					other_fields = false,
-				},
-				nDefenseStatMod = {
-					read_only = false,
-					other_fields = false,
-				},
-				nEffectBonus = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423718,18 +423283,6 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				nCritEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				nCritStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				nodeValue = {
-					read_only = false,
-					other_fields = false,
-				},
 				onInit = {
 					read_only = false,
 					other_fields = false,
@@ -423758,10 +423311,6 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				resetCombatantInit = {
-					read_only = false,
-					other_fields = false,
-				},
 				resetInit = {
 					read_only = false,
 					other_fields = false,
@@ -423771,10 +423320,6 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				rollInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				sCritThreshold = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -423944,6 +423489,10 @@ stds.dnd35e = {
 					other_fields = true,
 				},
 				spelleffects = {
+					read_only = false,
+					other_fields = true,
+				},
+				spellschools = {
 					read_only = false,
 					other_fields = true,
 				},
@@ -424144,10 +423693,6 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				targetactions = {
-					read_only = false,
-					other_fields = true,
-				},
 				tokenLightDefaults = {
 					read_only = false,
 					other_fields = true,
@@ -424309,10 +423854,6 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
-				sDisplayMode = {
-					read_only = false,
-					other_fields = false,
-				},
 				updatePowerDisplay = {
 					read_only = false,
 					other_fields = false,
@@ -424394,6 +423935,10 @@ stds.dnd35e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getPowerTags = {
+					read_only = false,
+					other_fields = false,
+				},
 				getSpellAction = {
 					read_only = false,
 					other_fields = false,
@@ -424449,6 +423994,10 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				convertChar17 = {
+					read_only = false,
+					other_fields = false,
+				},
+				convertChar19 = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -424581,6 +424130,10 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				migrateChar17 = {
+					read_only = false,
+					other_fields = false,
+				},
+				migrateChar19 = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -499035,6 +498588,203 @@ stds.dnd35e = {
 				},
 			},
 		},
+		frame_powersource = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		frame_section = {
 			read_only = false,
 			fields = {
@@ -522169,6 +521919,303 @@ stds.dnd35e = {
 			fields = {
 			},
 		},
+		label_powersource = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		label_quicklist = {
 			read_only = false,
 			fields = {
@@ -537514,6 +537561,427 @@ stds.dnd35e = {
 					other_fields = false,
 				},
 				onSpellCounterUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		powersource = {
+			read_only = false,
+			fields = {
+				addItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				addItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				clear = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				cycleLabel = {
+					read_only = false,
+					other_fields = false,
+				},
+				cycleValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemDataByValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getItemsData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getOptionItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				getStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValueCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValuesData = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasValues = {
+					read_only = false,
+					other_fields = false,
+				},
+				initialize = {
+					read_only = false,
+					other_fields = false,
+				},
+				initialize2 = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				loadSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSourceUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDefaultIndexInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performDisplayParamInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performOptionDataInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceCleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performSourceInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUICleanup = {
+					read_only = false,
+					other_fields = false,
+				},
+				performUIInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				refreshSourceDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				replaceItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				resolveOptionItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				saveSourceData = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDefaultIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDisplayColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDisplayFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcon = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItemData = {
+					read_only = false,
+					other_fields = false,
+				},
+				setItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMetadata = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourceField = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSourcePath = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStringValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -580932,7 +581400,15 @@ stds.dnd4e = {
 					read_only = false,
 					other_fields = false,
 				},
+				applyEffectsToRollMod = {
+					read_only = false,
+					other_fields = false,
+				},
 				getEffectAdjustments = {
+					read_only = false,
+					other_fields = false,
+				},
+				getRoll = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -581503,6 +581979,10 @@ stds.dnd4e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onCAConditionalCheck = {
+					read_only = false,
+					other_fields = false,
+				},
 				onEffectPreAdd = {
 					read_only = false,
 					other_fields = false,
@@ -581596,10 +582076,6 @@ stds.dnd4e = {
 				requestCharSelectDetailClient = {
 					read_only = false,
 					other_fields = false,
-				},
-				targetactions = {
-					read_only = false,
-					other_fields = true,
 				},
 				tokenLightDefaults = {
 					read_only = false,
@@ -729528,6 +730004,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				applyRangeToRollMod = {
+					read_only = false,
+					other_fields = false,
+				},
 				applyReliableEffectsToRollMod = {
 					read_only = false,
 					other_fields = false,
@@ -729613,6 +730093,23 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				setupRollMod = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		ActionCast = {
+			read_only = false,
+			fields = {
+				getRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onCast = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -729786,34 +730283,26 @@ stds.dnd5e = {
 				},
 			},
 		},
-		ActionPower = {
+		ActionPowerSave = {
 			read_only = false,
 			fields = {
 				OOB_MSGTYPE_APPLYSAVEVS = {
 					read_only = false,
 					other_fields = false,
 				},
-				getPowerCastRoll = {
+				getRoll = {
 					read_only = false,
 					other_fields = false,
 				},
-				getSaveVsRoll = {
+				handleApplyPowerSave = {
 					read_only = false,
 					other_fields = false,
 				},
-				handleApplySaveVs = {
+				modPowerSave = {
 					read_only = false,
 					other_fields = false,
 				},
-				modCastSave = {
-					read_only = false,
-					other_fields = false,
-				},
-				notifyApplySaveVs = {
-					read_only = false,
-					other_fields = false,
-				},
-				onCastSave = {
+				notifyApplyPowerSave = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -729821,15 +730310,15 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
-				onPowerCast = {
-					read_only = false,
-					other_fields = false,
-				},
 				onPowerSave = {
 					read_only = false,
 					other_fields = false,
 				},
-				performSaveVsRoll = {
+				performOpposedRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+				performRoll = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -730287,6 +730776,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getEffectSpellCantripBoost = {
+					read_only = false,
+					other_fields = false,
+				},
 				getEffectSpellDC = {
 					read_only = false,
 					other_fields = false,
@@ -730296,6 +730789,14 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				getEffectSpellDCFromActor = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectSpellLevel = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectSpellUpcast = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -731426,10 +731927,6 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
-				nMatchEnd = {
-					read_only = false,
-					other_fields = false,
-				},
 				parseAbilitiesFromString = {
 					read_only = false,
 					other_fields = false,
@@ -732118,6 +732615,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				FEAT_CROSSBOW_EXPORT = {
+					read_only = false,
+					other_fields = false,
+				},
 				FEAT_DEFENSE = {
 					read_only = false,
 					other_fields = false,
@@ -732155,6 +732656,14 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				FEAT_MEDIUM_ARMOR_MASTER = {
+					read_only = false,
+					other_fields = false,
+				},
+				FEAT_SHARPSHOOTER = {
+					read_only = false,
+					other_fields = false,
+				},
+				FEAT_SPELL_SNIPER = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -732471,10 +732980,6 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				refreshNextLevelXP = {
-					read_only = false,
-					other_fields = false,
-				},
-				rest = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -733521,35 +734026,7 @@ stds.dnd5e = {
 		CharWizardData = {
 			read_only = false,
 			fields = {
-				ARCANE_TRICKSTER_SPELLSKNOWN = {
-					read_only = false,
-					other_fields = true,
-				},
-				BARD_SPELLSKNOWN = {
-					read_only = false,
-					other_fields = true,
-				},
-				ELDRITCH_KNIGHT_SPELLSKNOWN = {
-					read_only = false,
-					other_fields = true,
-				},
-				RANGER_SPELLSKNOWN = {
-					read_only = false,
-					other_fields = true,
-				},
-				SORCERER_SPELLSKNOWN = {
-					read_only = false,
-					other_fields = true,
-				},
 				SPELLS_PREPARED_2024 = {
-					read_only = false,
-					other_fields = true,
-				},
-				WARLOCK_SPELLSKNOWN = {
-					read_only = false,
-					other_fields = true,
-				},
-				WIZARD_SPELLSKNOWN = {
 					read_only = false,
 					other_fields = true,
 				},
@@ -734901,6 +735378,18 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onTurnStartDeathSave = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTurnStartEncumbrance = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTurnStartExhaustion = {
+					read_only = false,
+					other_fields = false,
+				},
 				onVehiclePostAdd = {
 					read_only = false,
 					other_fields = false,
@@ -734929,15 +735418,7 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
-				resetCombatantInit = {
-					read_only = false,
-					other_fields = false,
-				},
 				resetInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				rest = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -735319,20 +735800,11 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = true,
 				},
+				spellschools = {
+					read_only = false,
+					other_fields = true,
+				},
 				stackable_conditions = {
-					read_only = false,
-					other_fields = true,
-				},
-			},
-		},
-		DataSpell = {
-			read_only = false,
-			fields = {
-				parsedata = {
-					read_only = false,
-					other_fields = true,
-				},
-				tBuildDataSpell2024 = {
 					read_only = false,
 					other_fields = true,
 				},
@@ -735592,10 +736064,6 @@ stds.dnd5e = {
 				requestCharSelectDetailClient = {
 					read_only = false,
 					other_fields = false,
-				},
-				targetactions = {
-					read_only = false,
-					other_fields = true,
 				},
 			},
 		},
@@ -736953,7 +737421,107 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				createAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				createActionOfType = {
+					read_only = false,
+					other_fields = false,
+				},
+				createAttackAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				createCastAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				createDamageAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				createEffectAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				createHealAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				createSaveAction = {
+					read_only = false,
+					other_fields = false,
+				},
 				evalAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getActionTooltip = {
+					read_only = false,
+					other_fields = false,
+				},
+				getAttackActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getAttackActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getAttackActionTooltip = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCastActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCastActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCastActionTooltip = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDamageActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDamageActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDamageActionTooltip = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEffectActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFirstActionOfType = {
+					read_only = false,
+					other_fields = false,
+				},
+				getHealActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getHealActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getHealActionTooltip = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -736985,11 +737553,43 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getPowerAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerActionDisplayOrder = {
+					read_only = false,
+					other_fields = false,
+				},
 				getPowerActions = {
 					read_only = false,
 					other_fields = false,
 				},
+				getPowerActionsData = {
+					read_only = false,
+					other_fields = false,
+				},
 				getPowerGroupRecord = {
+					read_only = false,
+					other_fields = false,
+				},
+				getRollFromActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSaveActionData = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSaveActionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSaveActionTooltip = {
+					read_only = false,
+					other_fields = false,
+				},
+				helperGetPowerActions = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737002,6 +737602,22 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				helperParseSaveStandard = {
+					read_only = false,
+					other_fields = false,
+				},
+				isActorPowerAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				onActionGetRoll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onActionGetRollQueueEntryToAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737033,7 +737649,15 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				parseNPCPowerDesc = {
+					read_only = false,
+					other_fields = false,
+				},
 				parsePCPower = {
+					read_only = false,
+					other_fields = false,
+				},
+				parsePCPowerActions = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737053,7 +737677,19 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				rebuildPowerActions = {
+					read_only = false,
+					other_fields = false,
+				},
 				resetPowers = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetPowersMain = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetPowersSlots = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737066,6 +737702,38 @@ stds.dnd5e = {
 		PowerManager5E = {
 			read_only = false,
 			fields = {
+				buildPerformPowerData = {
+					read_only = false,
+					other_fields = false,
+				},
+				buildPerformPowerDataActions = {
+					read_only = false,
+					other_fields = false,
+				},
+				buildPerformPowerDataTargeting = {
+					read_only = false,
+					other_fields = false,
+				},
+				buildPerformPowerSlotData = {
+					read_only = false,
+					other_fields = false,
+				},
+				clearSpellUpcast = {
+					read_only = false,
+					other_fields = false,
+				},
+				consumeSpellSlot = {
+					read_only = false,
+					other_fields = false,
+				},
+				deleteSpellUpcast = {
+					read_only = false,
+					other_fields = false,
+				},
+				doesPowerActionRequireTargets = {
+					read_only = false,
+					other_fields = false,
+				},
 				getActionButtonIcons = {
 					read_only = false,
 					other_fields = false,
@@ -737082,7 +737750,71 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				getPowerTags = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPowerTagsFromTextAndActions = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpellCantripBoost = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSpellUpcast = {
+					read_only = false,
+					other_fields = false,
+				},
+				handlePerformPowerDataSolo = {
+					read_only = false,
+					other_fields = false,
+				},
+				handlePowerChoiceSelectionsComplete = {
+					read_only = false,
+					other_fields = false,
+				},
+				handlePowerChoices = {
+					read_only = false,
+					other_fields = false,
+				},
+				handlePowerConcOverride = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellSlotManualSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellSlotSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleSpellSlotUsage = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleTargetSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasPowerConc = {
+					read_only = false,
+					other_fields = false,
+				},
+				notifySpellCastNoSlots = {
+					read_only = false,
+					other_fields = false,
+				},
+				notifySpellCastNoTargets = {
+					read_only = false,
+					other_fields = false,
+				},
 				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUsePowerHover = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737094,7 +737826,39 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				performPower = {
+					read_only = false,
+					other_fields = false,
+				},
+				performPowerAction = {
+					read_only = false,
+					other_fields = false,
+				},
+				performPowerFinalize = {
+					read_only = false,
+					other_fields = false,
+				},
+				performPowerInternal = {
+					read_only = false,
+					other_fields = false,
+				},
+				queryPowerSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetPower = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSpellUpcast = {
+					read_only = false,
+					other_fields = false,
+				},
 				updatePowerDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				usePower = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737187,9 +737951,46 @@ stds.dnd5e = {
 				},
 			},
 		},
+		VersionCharManager = {
+			read_only = false,
+			fields = {
+				CHAR_DB_VERSION = {
+					read_only = false,
+					other_fields = false,
+				},
+				handleDialogSpellMigration2 = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNewRecord = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWindowOpened = {
+					read_only = false,
+					other_fields = false,
+				},
+				querySpellMigration2 = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateVersion = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		VersionManager2 = {
 			read_only = false,
 			fields = {
+				convertCharacters10 = {
+					read_only = false,
+					other_fields = false,
+				},
 				convertCharacters2 = {
 					read_only = false,
 					other_fields = false,
@@ -737218,6 +738019,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				convertPregenCharacters10 = {
+					read_only = false,
+					other_fields = false,
+				},
 				convertPregenCharacters5 = {
 					read_only = false,
 					other_fields = false,
@@ -737231,6 +738036,14 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				convertRegistry9 = {
+					read_only = false,
+					other_fields = false,
+				},
+				convertSpells11 = {
+					read_only = false,
+					other_fields = false,
+				},
+				migrateChar10 = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737255,6 +738068,10 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				migrateItem8 = {
+					read_only = false,
+					other_fields = false,
+				},
+				migratePower10 = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -737874,6 +738691,15 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		accept = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -742808,6 +743634,21 @@ stds.dnd5e = {
 			fields = {
 			},
 		},
+		allowmult = {
+			read_only = false,
+			fields = {
+			},
+		},
+		allowupcast = {
+			read_only = false,
+			fields = {
+			},
+		},
+		allowupcast_label = {
+			read_only = false,
+			fields = {
+			},
+		},
 		ammocounter = {
 			read_only = false,
 			fields = {
@@ -746644,6 +747485,16 @@ stds.dnd5e = {
 			fields = {
 			},
 		},
+		area_slots = {
+			read_only = false,
+			fields = {
+			},
+		},
+		area_spell = {
+			read_only = false,
+			fields = {
+			},
+		},
 		area_str = {
 			read_only = false,
 			fields = {
@@ -746839,6 +747690,11 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+			},
+		},
+		area_targeting = {
+			read_only = false,
+			fields = {
 			},
 		},
 		area_variables = {
@@ -750865,6 +751721,303 @@ stds.dnd5e = {
 				},
 			},
 		},
+		attacklabel = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		attackstat = {
 			read_only = false,
 			fields = {
@@ -751290,303 +752443,6 @@ stds.dnd5e = {
 			read_only = false,
 			fields = {
 				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
-		attackviewlabel = {
-			read_only = false,
-			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -752885,6 +753741,31 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+			},
+		},
+		auto = {
+			read_only = false,
+			fields = {
+			},
+		},
+		auto_label = {
+			read_only = false,
+			fields = {
+			},
+		},
+		autokey = {
+			read_only = false,
+			fields = {
+			},
+		},
+		autokey_label = {
+			read_only = false,
+			fields = {
+			},
+		},
+		autokeychoice = {
+			read_only = false,
+			fields = {
 			},
 		},
 		background = {
@@ -755426,6 +756307,235 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		button = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -766244,6 +767354,15 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		cancel = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -784543,6 +785662,10 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onCounterUse = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -806088,6 +807211,235 @@ stds.dnd5e = {
 				},
 			},
 		},
+		haschoices = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		hd = {
 			read_only = false,
 			fields = {
@@ -809534,303 +810886,6 @@ stds.dnd5e = {
 			},
 		},
 		header_label = {
-			read_only = false,
-			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
-		header_onmiss = {
 			read_only = false,
 			fields = {
 				bringToFront = {
@@ -829429,6 +830484,11 @@ stds.dnd5e = {
 				},
 			},
 		},
+		label_add = {
+			read_only = false,
+			fields = {
+			},
+		},
 		label_ammo = {
 			read_only = false,
 			fields = {
@@ -834481,6 +835541,11 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+			},
+		},
+		label_autokeychoice = {
+			read_only = false,
+			fields = {
 			},
 		},
 		label_carried = {
@@ -843745,6 +844810,26 @@ stds.dnd5e = {
 				},
 			},
 		},
+		label_scalestat_end = {
+			read_only = false,
+			fields = {
+			},
+		},
+		label_scalestat_mid = {
+			read_only = false,
+			fields = {
+			},
+		},
+		label_scalestat_start = {
+			read_only = false,
+			fields = {
+			},
+		},
+		label_scaling = {
+			read_only = false,
+			fields = {
+			},
+		},
 		label_source = {
 			read_only = false,
 			fields = {
@@ -849104,6 +850189,11 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+			},
+		},
+		label_targetscalemult = {
+			read_only = false,
+			fields = {
 			},
 		},
 		label_temp = {
@@ -858752,7 +859842,17 @@ stds.dnd5e = {
 				},
 			},
 		},
+		onmissdamage_label = {
+			read_only = false,
+			fields = {
+			},
+		},
 		option = {
+			read_only = false,
+			fields = {
+			},
+		},
+		options = {
 			read_only = false,
 			fields = {
 			},
@@ -866104,7 +867204,7 @@ stds.dnd5e = {
 				},
 			},
 		},
-		power_action_cast = {
+		power_action_attack = {
 			read_only = false,
 			fields = {
 				onClose = {
@@ -866116,6 +867216,39 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				performAction = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_action_cast = {
+			read_only = false,
+			fields = {
+				onChoiceSelectionChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDataChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastChanged = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866128,6 +867261,10 @@ stds.dnd5e = {
 		power_action_damage = {
 			read_only = false,
 			fields = {
+				onChoiceSelectionChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 				onClose = {
 					read_only = false,
 					other_fields = false,
@@ -866140,13 +867277,17 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onUpcastChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 				performAction = {
 					read_only = false,
 					other_fields = false,
 				},
 			},
 		},
-		power_action_editor_cast = {
+		power_action_editor_attack = {
 			read_only = false,
 			fields = {
 				onInit = {
@@ -866154,6 +867295,19 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_action_editor_cast_targeting = {
+			read_only = false,
+			fields = {
+				onDataChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866190,9 +867344,39 @@ stds.dnd5e = {
 				},
 			},
 		},
+		power_action_editor_powersave = {
+			read_only = false,
+			fields = {
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_action_editor_scale_entry = {
+			read_only = false,
+			fields = {
+				onDataChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		power_action_effect = {
 			read_only = false,
 			fields = {
+				onChoiceSelectionChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 				onClose = {
 					read_only = false,
 					other_fields = false,
@@ -866202,6 +867386,10 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastChanged = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866226,7 +867414,166 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onUpcastChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 				performAction = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_action_mini = {
+			read_only = false,
+			fields = {
+				onChoiceSelectionChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_action_powersave = {
+			read_only = false,
+			fields = {
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDataChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				performAction = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_actions = {
+			read_only = false,
+			fields = {
+				handleActionAdd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLockModeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_actions_add_buttons = {
+			read_only = false,
+			fields = {
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_choice = {
+			read_only = false,
+			fields = {
+				setData = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_choice_content = {
+			read_only = false,
+			fields = {
+				addChoice = {
+					read_only = false,
+					other_fields = false,
+				},
+				closeContent = {
+					read_only = false,
+					other_fields = false,
+				},
+				finalizeChoices = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCurrentChoice = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCurrentChoiceSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				incrementChoiceIndex = {
+					read_only = false,
+					other_fields = false,
+				},
+				initDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				processAccept = {
+					read_only = false,
+					other_fields = false,
+				},
+				processCancel = {
+					read_only = false,
+					other_fields = false,
+				},
+				processNextChoice = {
+					read_only = false,
+					other_fields = false,
+				},
+				removeChoice = {
+					read_only = false,
+					other_fields = false,
+				},
+				setData = {
+					read_only = false,
+					other_fields = false,
+				},
+				setupChoices = {
+					read_only = false,
+					other_fields = false,
+				},
+				showContent = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateAcceptDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateChoiceDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_choice_item = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+				setData = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866263,6 +867610,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				openPicker = {
+					read_only = false,
+					other_fields = false,
+				},
 				setFilter = {
 					read_only = false,
 					other_fields = false,
@@ -866272,6 +867623,10 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				setNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				updatePrayButton = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866294,6 +867649,27 @@ stds.dnd5e = {
 				},
 			},
 		},
+		power_item = {
+			read_only = false,
+			fields = {
+				onChoiceSelectionUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastFieldUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		power_item_header = {
 			read_only = false,
 			fields = {
@@ -866302,6 +867678,10 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				onLockModeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onUpcastChanged = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866407,6 +867787,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				onSlotsMaxChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 				onSortCompare = {
 					read_only = false,
 					other_fields = false,
@@ -866456,7 +867840,7 @@ stds.dnd5e = {
 		power_slots_cast = {
 			read_only = false,
 			fields = {
-				getOrdinalLabel = {
+				getActiveLevels = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -866494,6 +867878,44 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				onLockModeChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_upcast = {
+			read_only = false,
+			fields = {
+				setData = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		power_upcast_content = {
+			read_only = false,
+			fields = {
+				closeContent = {
+					read_only = false,
+					other_fields = false,
+				},
+				initDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
+				processCancel = {
+					read_only = false,
+					other_fields = false,
+				},
+				processSlot = {
+					read_only = false,
+					other_fields = false,
+				},
+				setData = {
+					read_only = false,
+					other_fields = false,
+				},
+				showContent = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -872462,7 +873884,7 @@ stds.dnd5e = {
 		ritual = {
 			read_only = false,
 			fields = {
-				onValueChanged = {
+				onButtonPress = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -878964,303 +880386,6 @@ stds.dnd5e = {
 				},
 			},
 		},
-		saveviewlabel = {
-			read_only = false,
-			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEmpty = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDeleteUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateLeft = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateRight = {
-					read_only = false,
-					other_fields = false,
-				},
-				onNavigateUp = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setCursorPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEmptyText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setLine = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setSelectionPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setUnderline = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
 		savingthrows = {
 			read_only = false,
 			fields = {
@@ -879269,6 +880394,25 @@ stds.dnd5e = {
 		savingthrows_label = {
 			read_only = false,
 			fields = {
+			},
+		},
+		scalebonus = {
+			read_only = false,
+			fields = {
+			},
+		},
+		scaledice = {
+			read_only = false,
+			fields = {
+			},
+		},
+		scalestat = {
+			read_only = false,
+			fields = {
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
 			},
 		},
 		school = {
@@ -882303,6 +883447,87 @@ stds.dnd5e = {
 				},
 			},
 		},
+		slot1 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot2 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot3 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot4 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot5 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot6 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot7 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot8 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		slot9 = {
+			read_only = false,
+			fields = {
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		slotstitle = {
 			read_only = false,
 			fields = {
@@ -882658,6 +883883,11 @@ stds.dnd5e = {
 			},
 		},
 		spacer_roll = {
+			read_only = false,
+			fields = {
+			},
+		},
+		spacer_scaling = {
 			read_only = false,
 			fields = {
 			},
@@ -898495,6 +899725,216 @@ stds.dnd5e = {
 				},
 			},
 		},
+		sub_add_buttons = {
+			read_only = false,
+			fields = {
+			},
+		},
+		sub_auto = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				update = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		sub_background = {
 			read_only = false,
 			fields = {
@@ -898686,6 +900126,211 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				stringFilterCheck = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		sub_choices = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				update = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -898972,14 +900617,425 @@ stds.dnd5e = {
 			fields = {
 			},
 		},
+		sub_query = {
+			read_only = false,
+			fields = {
+			},
+		},
 		sub_ranged = {
 			read_only = false,
 			fields = {
 			},
 		},
+		sub_result = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				update = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		sub_save = {
 			read_only = false,
 			fields = {
+			},
+		},
+		sub_scale = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateDisplay = {
+					read_only = false,
+					other_fields = false,
+				},
 			},
 		},
 		sub_species = {
@@ -899025,6 +901081,211 @@ stds.dnd5e = {
 		sub_summon = {
 			read_only = false,
 			fields = {
+			},
+		},
+		sub_targeting = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInstanceCreated = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				update = {
+					read_only = false,
+					other_fields = false,
+				},
 			},
 		},
 		sub_templates = {
@@ -909874,6 +912135,240 @@ stds.dnd5e = {
 				},
 			},
 		},
+		tag = {
+			read_only = false,
+			fields = {
+			},
+		},
+		targetbutton = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onButtonPress = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateIcons = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
 		targeting = {
 			read_only = false,
 			fields = {
@@ -910296,6 +912791,323 @@ stds.dnd5e = {
 			},
 		},
 		targeting_label = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setLine = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		targetingval = {
+			read_only = false,
+			fields = {
+			},
+		},
+		targetingval2 = {
+			read_only = false,
+			fields = {
+			},
+		},
+		targetscalemult = {
+			read_only = false,
+			fields = {
+			},
+		},
+		targetscalestat = {
+			read_only = false,
+			fields = {
+			},
+		},
+		targetview = {
 			read_only = false,
 			fields = {
 				bringToFront = {
@@ -913464,6 +916276,267 @@ stds.dnd5e = {
 		type_label = {
 			read_only = false,
 			fields = {
+			},
+		},
+		upcast = {
+			read_only = false,
+			fields = {
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMaxValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getMinValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDescriptionField = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDescriptionText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMaxValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setMinValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
 			},
 		},
 		usepower = {
@@ -996643,7 +999716,20 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 				},
 			},
 		},
-		base = {
+		background = {
+			read_only = false,
+			fields = {
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		background_choose = {
 			read_only = false,
 			fields = {
 				bringToFront = {
@@ -996651,6 +999737,18 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					other_fields = false,
 				},
 				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
+				getFont = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996666,6 +999764,10 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
+				getSelectionPosition = {
+					read_only = false,
+					other_fields = false,
+				},
 				getSize = {
 					read_only = false,
 					other_fields = false,
@@ -996674,7 +999776,15 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
-				hasIcon = {
+				getValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEmpty = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996690,6 +999800,10 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
+				onChar = {
+					read_only = false,
+					other_fields = false,
+				},
 				onClickDown = {
 					read_only = false,
 					other_fields = false,
@@ -996699,6 +999813,14 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					other_fields = false,
 				},
 				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDeleteUp = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996722,7 +999844,15 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
+				onEnter = {
+					read_only = false,
+					other_fields = false,
+				},
 				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996738,11 +999868,39 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
 				onMenuSelection = {
 					read_only = false,
 					other_fields = false,
 				},
+				onNavigateDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateLeft = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateRight = {
+					read_only = false,
+					other_fields = false,
+				},
+				onNavigateUp = {
+					read_only = false,
+					other_fields = false,
+				},
 				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onTab = {
+					read_only = false,
+					other_fields = false,
+				},
+				onValueChanged = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996794,7 +999952,23 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
+				setCursorPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEmptyText = {
+					read_only = false,
+					other_fields = false,
+				},
 				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFont = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996806,7 +999980,7 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
-				setIcon = {
+				setLine = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996815,6 +999989,10 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					other_fields = false,
 				},
 				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setSelectionPosition = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -996834,7 +1000012,27 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					read_only = false,
 					other_fields = false,
 				},
+				setUnderline = {
+					read_only = false,
+					other_fields = false,
+				},
+				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
 				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				update = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateForNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				updateVisibility = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -997997,10 +1001195,22 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 				},
 			},
 		},
-		closeBtn = {
+		combat_mini_thaco_matrix = {
 			read_only = false,
 			fields = {
+				createTHACOMatrix = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
 				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				update = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -998609,15 +1001819,6 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 			},
 		},
 		ct_npc_weapon = {
-			read_only = false,
-			fields = {
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
-		cta_skills_host = {
 			read_only = false,
 			fields = {
 				onInit = {
@@ -999527,271 +1002728,6 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 			},
 		},
 		currentyear = {
-			read_only = false,
-			fields = {
-				bringToFront = {
-					read_only = false,
-					other_fields = false,
-				},
-				destroy = {
-					read_only = false,
-					other_fields = false,
-				},
-				getDatabaseNode = {
-					read_only = false,
-					other_fields = false,
-				},
-				getFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				getName = {
-					read_only = false,
-					other_fields = false,
-				},
-				getPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				getScrollState = {
-					read_only = false,
-					other_fields = false,
-				},
-				getSize = {
-					read_only = false,
-					other_fields = false,
-				},
-				getTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				getValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				hasFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				isEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				isReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				isVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-				onChar = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickDown = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClickRelease = {
-					read_only = false,
-					other_fields = false,
-				},
-				onClose = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDoubleClick = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrag = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragEnd = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDragStart = {
-					read_only = false,
-					other_fields = false,
-				},
-				onDrop = {
-					read_only = false,
-					other_fields = false,
-				},
-				onEnter = {
-					read_only = false,
-					other_fields = false,
-				},
-				onFirstLayout = {
-					read_only = false,
-					other_fields = false,
-				},
-				onGainFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHover = {
-					read_only = false,
-					other_fields = false,
-				},
-				onHoverUpdate = {
-					read_only = false,
-					other_fields = false,
-				},
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-				onLoseFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				onMenuSelection = {
-					read_only = false,
-					other_fields = false,
-				},
-				onScroll = {
-					read_only = false,
-					other_fields = false,
-				},
-				onTab = {
-					read_only = false,
-					other_fields = false,
-				},
-				onValueChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onVisibilityChanged = {
-					read_only = false,
-					other_fields = false,
-				},
-				onWheel = {
-					read_only = false,
-					other_fields = false,
-				},
-				onZoom = {
-					read_only = false,
-					other_fields = false,
-				},
-				registerMenuItem = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				resetMenuItems = {
-					read_only = false,
-					other_fields = false,
-				},
-				sendToBack = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredHeight = {
-					read_only = false,
-					other_fields = false,
-				},
-				setAnchoredWidth = {
-					read_only = false,
-					other_fields = false,
-				},
-				setBackColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setColor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionField = {
-					read_only = false,
-					other_fields = false,
-				},
-				setDescriptionText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setEnabled = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFocus = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFont = {
-					read_only = false,
-					other_fields = false,
-				},
-				setFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setHoverCursor = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMaxValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setMinValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setReadOnly = {
-					read_only = false,
-					other_fields = false,
-				},
-				setScrollPosition = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStateFrame = {
-					read_only = false,
-					other_fields = false,
-				},
-				setStaticBounds = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTabTarget = {
-					read_only = false,
-					other_fields = false,
-				},
-				setTooltipText = {
-					read_only = false,
-					other_fields = false,
-				},
-				setValue = {
-					read_only = false,
-					other_fields = false,
-				},
-				setVisible = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
-		cypherload = {
 			read_only = false,
 			fields = {
 				bringToFront = {
@@ -1010921,24 +1013857,6 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 				},
 			},
 		},
-		power_action = {
-			read_only = false,
-			fields = {
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
-		power_item = {
-			read_only = false,
-			fields = {
-				onInit = {
-					read_only = false,
-					other_fields = false,
-				},
-			},
-		},
 		refCurrent = {
 			read_only = false,
 			fields = {
@@ -1012055,6 +1014973,283 @@ stds.hearthcreatedbysirmottemaintainedbyjustinfreitascoauthorsmeanduniqueandsaag
 					other_fields = false,
 				},
 				setValue = {
+					read_only = false,
+					other_fields = false,
+				},
+				setVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+			},
+		},
+		skills = {
+			read_only = false,
+			fields = {
+				applyFilter = {
+					read_only = false,
+					other_fields = false,
+				},
+				applySort = {
+					read_only = false,
+					other_fields = false,
+				},
+				bringToFront = {
+					read_only = false,
+					other_fields = false,
+				},
+				closeAll = {
+					read_only = false,
+					other_fields = false,
+				},
+				createWindow = {
+					read_only = false,
+					other_fields = false,
+				},
+				createWindowWithClass = {
+					read_only = false,
+					other_fields = false,
+				},
+				destroy = {
+					read_only = false,
+					other_fields = false,
+				},
+				getColumnWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				getDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				getName = {
+					read_only = false,
+					other_fields = false,
+				},
+				getNextWindow = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				getPrevWindow = {
+					read_only = false,
+					other_fields = false,
+				},
+				getScrollState = {
+					read_only = false,
+					other_fields = false,
+				},
+				getSize = {
+					read_only = false,
+					other_fields = false,
+				},
+				getTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				getWindowAt = {
+					read_only = false,
+					other_fields = false,
+				},
+				getWindowCount = {
+					read_only = false,
+					other_fields = false,
+				},
+				getWindows = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				isEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				isReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				isVisible = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickDown = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClickRelease = {
+					read_only = false,
+					other_fields = false,
+				},
+				onClose = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDoubleClick = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrag = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragEnd = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDragStart = {
+					read_only = false,
+					other_fields = false,
+				},
+				onDrop = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFilter = {
+					read_only = false,
+					other_fields = false,
+				},
+				onFirstLayout = {
+					read_only = false,
+					other_fields = false,
+				},
+				onGainFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHover = {
+					read_only = false,
+					other_fields = false,
+				},
+				onHoverUpdate = {
+					read_only = false,
+					other_fields = false,
+				},
+				onInit = {
+					read_only = false,
+					other_fields = false,
+				},
+				onListChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onListRearranged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onLoseFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				onMenuSelection = {
+					read_only = false,
+					other_fields = false,
+				},
+				onScroll = {
+					read_only = false,
+					other_fields = false,
+				},
+				onSortCompare = {
+					read_only = false,
+					other_fields = false,
+				},
+				onVisibilityChanged = {
+					read_only = false,
+					other_fields = false,
+				},
+				onWheel = {
+					read_only = false,
+					other_fields = false,
+				},
+				onZoom = {
+					read_only = false,
+					other_fields = false,
+				},
+				registerMenuItem = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				resetMenuItems = {
+					read_only = false,
+					other_fields = false,
+				},
+				scrollToWindow = {
+					read_only = false,
+					other_fields = false,
+				},
+				sendToBack = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredHeight = {
+					read_only = false,
+					other_fields = false,
+				},
+				setAnchoredWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setBackColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setColumnWidth = {
+					read_only = false,
+					other_fields = false,
+				},
+				setDatabaseNode = {
+					read_only = false,
+					other_fields = false,
+				},
+				setEnabled = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFocus = {
+					read_only = false,
+					other_fields = false,
+				},
+				setFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setHoverCursor = {
+					read_only = false,
+					other_fields = false,
+				},
+				setReadOnly = {
+					read_only = false,
+					other_fields = false,
+				},
+				setScrollPosition = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStateFrame = {
+					read_only = false,
+					other_fields = false,
+				},
+				setStaticBounds = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTabTarget = {
+					read_only = false,
+					other_fields = false,
+				},
+				setTooltipText = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -1077398,6 +1080593,10 @@ stds.pfrpg = {
 					read_only = false,
 					other_fields = true,
 				},
+				spellschools = {
+					read_only = false,
+					other_fields = true,
+				},
 				stackablebonustypes = {
 					read_only = false,
 					other_fields = true,
@@ -1083688,7 +1086887,7 @@ stds.pfrpg2 = {
 					read_only = false,
 					other_fields = false,
 				},
-				targetactions = {
+				tokenLightDefaults = {
 					read_only = false,
 					other_fields = true,
 				},
@@ -1390584,11 +1393783,19 @@ stds.sfrpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				getEffectSpellLevel = {
+					read_only = false,
+					other_fields = false,
+				},
 				getEffectsBonus = {
 					read_only = false,
 					other_fields = false,
 				},
 				getFatigueColor = {
+					read_only = false,
+					other_fields = false,
+				},
+				getListRecordByName = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -1390613,6 +1393820,58 @@ stds.sfrpg = {
 					other_fields = false,
 				},
 				getWoundPercent = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFeat = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasFieldValueByName = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasNPCFeat = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasNPCSpecialAbility = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasNPCTrait = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasPCFeat = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasPCSpecialAbility = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasPCTrait = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasRollFeat = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasRollSpecialAbility = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasRollTrait = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasSpecialAbility = {
+					read_only = false,
+					other_fields = false,
+				},
+				hasTrait = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -1393546,14 +1396805,6 @@ stds.sfrpg = {
 				requestCharSelectDetailClient = {
 					read_only = false,
 					other_fields = false,
-				},
-				starshiptargetactions = {
-					read_only = false,
-					other_fields = true,
-				},
-				targetactions = {
-					read_only = false,
-					other_fields = true,
 				},
 				tokenLightDefaults = {
 					read_only = false,
