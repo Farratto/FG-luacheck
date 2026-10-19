@@ -737421,6 +737421,10 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
+				convertParseAbilityToAction = {
+					read_only = false,
+					other_fields = false,
+				},
 				createAction = {
 					read_only = false,
 					other_fields = false,
@@ -737754,7 +737758,7 @@ stds.dnd5e = {
 					read_only = false,
 					other_fields = false,
 				},
-				getPowerTagsFromTextAndActions = {
+				getPowerTagsFromTextAndAbilities = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -1725697,11 +1725701,31 @@ stds.walkthiswayfarratto = {
 		SpeedManager = {
 			read_only = false,
 			fields = {
+				DIFFICULT_TERRAIN = {
+					read_only = false,
+					other_fields = false,
+				},
+				IGN_DIF_TERRAIN = {
+					read_only = false,
+					other_fields = false,
+				},
+				IGN_ENCUMB = {
+					read_only = false,
+					other_fields = false,
+				},
+				IGN_HEAVY = {
+					read_only = false,
+					other_fields = false,
+				},
 				OOB_MSGTYPE_CLOSESPEEDWINDOW = {
 					read_only = false,
 					other_fields = false,
 				},
 				OOB_MSGTYPE_SPEEDWINDOW = {
+					read_only = false,
+					other_fields = false,
+				},
+				SWIMMING = {
 					read_only = false,
 					other_fields = false,
 				},
@@ -1725975,6 +1725999,14 @@ stds.walkthiswayfarratto = {
 					other_fields = false,
 				},
 				getAllImageWindows = {
+					read_only = false,
+					other_fields = false,
+				},
+				getCTList = {
+					read_only = false,
+					other_fields = false,
+				},
+				getClosedWindow = {
 					read_only = false,
 					other_fields = false,
 				},
