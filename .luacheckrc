@@ -49123,6 +49123,10 @@ stds.corerpg = {
 					read_only = false,
 					other_fields = false,
 				},
+				getNextActionRollTargets = {
+					read_only = false,
+					other_fields = false,
+				},
 				getNextActionTargets = {
 					read_only = false,
 					other_fields = false,
@@ -731054,6 +731058,10 @@ stds.dnd5e = {
 					other_fields = false,
 				},
 				addPregenChar = {
+					read_only = false,
+					other_fields = false,
+				},
+				getRecordVersionFromCampaignVersion = {
 					read_only = false,
 					other_fields = false,
 				},
